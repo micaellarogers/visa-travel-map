@@ -1,0 +1,4 @@
+# Only the built page is published; the data and build scripts stay local.
+/*
+!/index.html
+!/.gitignore
